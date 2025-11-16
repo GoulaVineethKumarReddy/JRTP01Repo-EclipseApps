@@ -1,0 +1,5 @@
+# Created at 2025-09-07T10:35:25.919
+Boot Manifest-JAR contains absolute paths in classpath 'E:\All Premium Courses\RealTimeProjects-Natraj\JRTP-eclipse\MavenProj02-StringUtil\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
