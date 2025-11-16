@@ -22,5 +22,6 @@ public class App
 //        int num1 = Integer.parseInt(sc.nextLine().trim());
 //        double squareRoot = Math.sqrt((double)num1); 
 //        System.out.println("Square root of "+num1+" is :: "+squareRoot);
+//        System.out.println("Square root of "+num1+" is :: "+squareRoot);
     }
 }
