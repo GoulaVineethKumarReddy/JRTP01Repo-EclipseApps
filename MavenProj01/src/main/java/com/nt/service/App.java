@@ -19,6 +19,10 @@ public class App
 		StringBuffer sb = new StringBuffer(name);
 		 return sb.reverse().toString();
 	}
+	public int findNameLength(String name) {
+		System.out.println("getName Bug 123 wok is done ");
+		return name.length();
+	}
     public static void main( String[] args )
     {
         App app = new App();
