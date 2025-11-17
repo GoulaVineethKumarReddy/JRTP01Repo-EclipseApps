@@ -1,11 +1,7 @@
 package com.nt.service;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
 	public int sum(int x, int y) {
