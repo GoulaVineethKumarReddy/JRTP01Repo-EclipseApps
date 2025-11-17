@@ -15,6 +15,8 @@ public class App
 		return x-y;
 	}
 	public int getDifference(int x , int y) {
+		System.out.println("App.getDifference()");
+		int c = x-y;
 		return (x>y)?(x-y):(y-x);
 	}
     public static void main( String[] args )
