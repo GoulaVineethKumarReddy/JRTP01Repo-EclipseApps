@@ -15,6 +15,10 @@ public class App
 		System.out.println("App.getDifference()");
 		return (x>y)?(x-y):(y-x);
 	}
+	public String reversedString(String name) {
+		StringBuffer sb = new StringBuffer(name);
+		 return sb.reverse().toString();
+	}
     public static void main( String[] args )
     {
         App app = new App();
