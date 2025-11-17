@@ -15,12 +15,7 @@ public class App
 		return x-y;
 	}
 	public int getDifference(int x , int y) {
-<<<<<<< HEAD
 		System.out.println("getDifference Method");
-=======
-		System.out.println("App.getDifference()");
-		int c = x-y;
->>>>>>> branch 'master' of https://github.com/GoulaVineethKumarReddy/JRTP01Repo-EclipseApps.git
 		return (x>y)?(x-y):(y-x);
 	}
     public static void main( String[] args )
