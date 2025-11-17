@@ -23,6 +23,12 @@ public class App
 		System.out.println("getName Bug 123 wok is done ");
 		return name.length();
 	}
+	public int mul(int x, int y) {
+		return x*y;
+	}
+	public int divide(int x, int y) {
+		return x/y;
+	}
     public static void main( String[] args )
     {
         App app = new App();
