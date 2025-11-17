@@ -11,6 +11,12 @@ public class App
 	public int sum(int x, int y) {
 		return x+y;
 	}
+	public int sub(int x , int y) {
+		return x-y;
+	}
+	public int getDifference(int x , int y) {
+		return (x>y)?(x-y):(y-x);
+	}
     public static void main( String[] args )
     {
         App app = new App();

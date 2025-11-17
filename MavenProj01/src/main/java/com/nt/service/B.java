@@ -7,4 +7,6 @@ public class B {
 		return 0.00;
 	}
 	
+	
+	
 }
